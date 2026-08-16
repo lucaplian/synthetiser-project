@@ -1,6 +1,6 @@
 {
     "tables": {
-        "adult-data-census-complete2": {
+        "adult-data-census-complete": {
             "columns": {
                 "age": {
                     "sdtype": "numerical"
@@ -39,9 +39,6 @@
                     "sdtype": "categorical"
                 },
                 "capital_net": {
-                    "sdtype": "numerical"
-                },
-                "capital_net_log": {
                     "sdtype": "numerical"
                 }
             }
